@@ -75,3 +75,4 @@ figure figcaption{font-size:13px;color:var(--ink2);margin-top:10px}
 .side-photo img{max-height:460px;aspect-ratio:4/3}
 @media(max-width:640px){.hero h1{font-size:30px}}
 .nw{white-space:nowrap}.hero h1{font-size:clamp(28px,3.8vw,46px)}@media(max-width:640px){.hero h1{font-size:clamp(24px,7.6vw,30px)}}
+.hero-photo{max-width:275px;justify-self:center;width:100%}@media(max-width:900px){.hero-photo{max-width:420px}}@media(max-width:640px){.hero-photo{max-width:80%}}
